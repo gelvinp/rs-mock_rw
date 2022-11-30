@@ -1,0 +1,8 @@
+[package]
+name = "mock_rw"
+version = "1.0.0"
+authors = ["Patrick Gelvin <patrick@gelvin.dev>"]
+edition = "2021"
+license = "CC0-1.0"
+keywords = ["mock", "read", "write"]
+categories = ["development-tools::testing"]
